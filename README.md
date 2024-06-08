@@ -1,5 +1,8 @@
 # BookScanner
 
+<img src="https://github.com/alexcjwei/BookScanner/assets/59217250/204153e9-e3ec-4914-a1c6-f5f0c01e919b" width=200 />
+
+
 A SwiftUI app to scan the QR code of books and save them on your device.
 
 Uses OpenLibrary API to get book details (if the scan doesn't work, it's probably because OpenLibrary doesn't have the book details).
